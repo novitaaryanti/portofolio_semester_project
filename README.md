@@ -1,6 +1,6 @@
 # portofolio_semester_project
 
-# [Semester Project]
+# Semester Project
 
 ## Project 01: Classifying and Predicting the Rating of Women's E-commerce Clothing Reviews
 This project was done in a group for experimental purposes in the form of a paper. The project aimed to classify the rating class from the reviews and to get the best performance of the proposed models. The experiment used a dataset obtained for Kaggle called Women's E-Commerce Clothing Reviews and focused only on the 'Review' and 'Rating' features. The classification divided the review into 3 classes, where ratings 1 and 2 were considered negative, 3 were considered neutral, and 4-5 were considered positive. The model used the combinations of text vectorization and training models, including TF-IDF - SVM, TF-IDF - ANN, and sentenceBERT - BERT. My contribution to the project was to code the BERT model and charge of proofreading the paper. By comparing the models, TF-IDF - ANN obtained the highest accuracy and F1 score with 0.933 accuracy and 0.963 F1 Score.
