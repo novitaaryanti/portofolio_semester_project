@@ -1,5 +1,3 @@
-# portofolio_semester_project
-
 # Semester Project
 
 ## Project 01: Classifying and Predicting the Rating of Women's E-commerce Clothing Reviews
